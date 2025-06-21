@@ -19,64 +19,60 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a seasoned **Full Stack Engineer** with over a decade of experience in developing scalable, efficient solutions that push the boundaries of technology and drive innovation. Passionate about AI and its transformative potential, I am eager to contribute to cutting-edge developments in the tech industry.
+I'm a seasoned **Senior Full Stack Engineer** with 11+ years of experience developing scalable, efficient, and innovative solutions across industries such as **finance, healthcare, e-commerce, and real estate**. Passionate about **AI/ML**, **LLM-powered applications**, and **cloud architecture**, I bring deep expertise in delivering impactful projects from concept to deployment.
 
 - 🌍 Based in Seattle, WA
 - 📫 How to reach me: [Email](mailto:eddydiaz0219@gmail.com)
-- 📝 [Resume](https://aiapply.co/r/66663bfd0369f)
-- 💼 [LinkedIn](https://www.linkedin.com/in/diaz-j-aab55612a/)
-- 🌐 [Portfolio](https://eddy-diaz.jimdosite.com/)
+- 🌐 [Portfolio](https://diaz-eddy.dorik.io/)
 - 📅 [Schedule a Meeting](https://calendly.com/eddydiaz0219)
 
 ## 🛠 Technical Skills
 
 **Frontend Development:**
-- React, React Native, Next.js
-- HTML5, CSS3, JavaScript, TypeScript
-- Redux, Material UI, Tailwind CSS, ChakraUI, Ant Design
+- React, React Native, Next.js, Angular, Vue.js
+- TypeScript, JavaScript, HTML5, CSS3
+- Redux, Redux Toolkit, Material UI, Tailwind CSS, ChakraUI, Ant Design, Storybook
 
 **Backend Development:**
-- Node.js, Express.js, Nest.js
-- GraphQL, RESTful APIs
+- Node.js, Express.js, Nest.js, Django, FastAPI, Flask, Ruby on Rails, Spring Boot, Golang
+- Python, Java, C#
+- RESTful APIs, GraphQL
 - PostgreSQL, MongoDB, MySQL
-- Serverless Architecture, AWS, GCP
+- AWS (Lambda, EC2, RDS, API Gateway, S3, CloudFormation), GCP, Serverless
 
 **AI & Machine Learning:**
-- TensorFlow, PyTorch
-- Natural Language Processing (NLP)
-- AI-powered solutions for finance, healthcare, and more
+- TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
+- NLP, LSTM models, CNNs, AI for healthcare diagnostics, fraud detection, robo-advisors
+- AWS SageMaker, Glue ETL, Spark, Hadoop
 
 **DevOps & Tools:**
 - Docker, Kubernetes
-- CI/CD pipelines (Jenkins, GitHub Actions)
-- AWS Lambda, API Gateway, S3, CloudFormation
-- Monitoring & Logging (Prometheus, Grafana)
+- CI/CD (Jenkins, GitHub Actions), Cypress, Jest, Enzyme
+- Monitoring & Logging: Prometheus, Grafana, Kibana, Elasticsearch
 
 ## 🏆 Professional Experience
 
 ### Senior Software Engineer (Contract)
-**Blackfactor, Miami, FL (Jul 2022 – Apr 2024)**
-- Developed a Robo-advisor Platform with AI/ML algorithms for investment recommendations.
-- Built a scalable Next.js web app with a React/Redux frontend.
-- Architected AWS infrastructure for auto-scaling and high availability.
+**Blankfactor, Miami, FL (Jul 2022 – May 2025)**
+- Architected and deployed a scalable robo-advisor platform with AI/ML algorithms for personalized investment recommendations.
+- Delivered a property management system using AI valuation models for scoring real estate properties from images.
+- Led frontend and backend development for a healthcare assistant leveraging NLP for patient queries.
 
 ### Senior Full Stack Engineer
 **Kyndi, San Mateo, CA (Jul 2019 – Jun 2022)**
-- Created a Payment Fraud Detection System using machine learning models.
-- Developed feature engineering pipelines and integrated models via REST APIs.
-- Built a Medical Diagnosis Assistant leveraging deep learning for medical imaging.
+- Built a fraud detection system with ML models integrated into low-latency APIs for real-time scoring.
+- Developed an AI medical imaging assistant with deep learning for radiology diagnostics and integrated genetic screening APIs.
 
 ### Software Engineer
-**Braze, New York, NY (Jul 2015 – Jun 2019)**
-- Developed an Omni-channel Messaging Platform for e-commerce.
-- Built APIs and user interfaces for customer communications across multiple touchpoints.
-- Integrated third-party APIs and developed asynchronous worker services.
+**Iterable, New York, NY (Jun 2015 – May 2019)**
+- Engineered an omnichannel messaging platform with scalable serverless architecture for high-volume communications.
+- Integrated third-party APIs like Twilio, SendGrid, and Firebase for seamless multi-channel delivery.
 
 ## 🎓 Education
 
 **M.S. in Computer Science**  
 Osaka University, Japan (2014 - 2015)  
-GPA: 3.9 / 4.0
+GPA: 3.9 / 4.0  
 
 **B.S. in Computer Science**  
 Osaka University, Japan (2010 - 2014)
@@ -84,20 +80,23 @@ Osaka University, Japan (2010 - 2014)
 ## 💼 Projects
 
 ### Robo-advisor Platform
-An AI/ML-driven platform providing customized investment portfolios and financial recommendations.
+AI/ML-driven platform with TensorFlow LSTM models, providing customized investment portfolios via scalable AWS infrastructure.
 
 ### Property Management System
-An AI-powered system scoring the quality and conditions of real estate properties from photos.
+AI-powered app scoring real estate property conditions from photos using valuation models; React/Next.js + Django backend.
 
 ### AI-powered Healthcare Assistant
-A natural language processing and machine learning solution answering patients' health-related questions.
+NLP + ML solution for patient health queries on web and mobile apps; integrated with TensorFlow.js and AWS cloud services.
 
 ### Payment Fraud Detection System
-A machine learning solution detecting payment fraud using transactional data and real-time scoring APIs.
+ML pipeline for fraud detection with XGBoost, LightGBM, Scikit-learn models; automated AWS SageMaker retraining.
 
 ### Medical Diagnosis Assistant
-An AI-powered assistant analyzing medical scans to aid radiologists in accurate diagnoses.
+Deep learning and genetic screening API integration for AI medical imaging diagnostics at scale.
+
+### Restaurant Technology Suite
+Built an accessible web app optimizing food delivery using React, Next.js, and React Native, with GraphQL APIs.
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing innovative ideas, collaborating on projects, or exploring new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/diaz-j-aab55612a/) or [email](mailto:eddydiaz0219@gmail.com).
+I'm always open to discussing innovative ideas, collaborating on projects, or exploring new opportunities. Feel free to reach out to me via [email](mailto:eddydiaz0219@gmail.com).
