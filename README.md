@@ -1,102 +1,106 @@
-<!--
-**diazeddy/diazeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Eddy Diaz
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Eddy Diaz 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=eddydiaz0219&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=diazeddy&style=flat-square)
 
 ## 🚀 About Me
 
-I'm a seasoned **Senior Full Stack Engineer** with 11+ years of experience developing scalable, efficient, and innovative solutions across industries such as **finance, healthcare, e-commerce, and real estate**. Passionate about **AI/ML**, **LLM-powered applications**, and **cloud architecture**, I bring deep expertise in delivering impactful projects from concept to deployment.
+I'm an innovative **Staff Software Engineer** with 9+ years of experience building and scaling systems across **AI/ML platforms, developer tools, cloud computing, and global consumer products**.
 
-- 🌍 Based in Seattle, WA
-- 📫 How to reach me: [Email](mailto:eddydiaz0219@gmail.com)
-- 🌐 [Portfolio](https://diaz-eddy.dorik.io/)
-- 📅 [Schedule a Meeting](https://calendly.com/eddydiaz0219)
+I’ve delivered high-impact features used by millions—from **Hugging Face’s model and dataset infrastructure** to **Amazon Alexa**, **Fire TV**, and **Azure analytics**. I focus on designing elegant, scalable systems with strong developer experience at the core.
 
-## 🛠 Technical Skills
+- 🌍 Based in Kent, WA  
+- 📫 Email: **edwarddiaz888@gmail.com**  
+- 🌐 Portfolio: https://edward-diaz.vercel.app/  
+- 📅 Schedule: https://calendly.com/edwarddiaz888  
 
-**Frontend Development:**
-- React, React Native, Next.js, Angular, Vue.js
-- TypeScript, JavaScript, HTML5, CSS3
-- Redux, Redux Toolkit, Material UI, Tailwind CSS, ChakraUI, Ant Design, Storybook
+---
 
-**Backend Development:**
-- Node.js, Express.js, Nest.js, Django, FastAPI, Flask, Ruby on Rails, Spring Boot, Golang
-- Python, Java, C#
-- RESTful APIs, GraphQL
-- PostgreSQL, MongoDB, MySQL
-- AWS (Lambda, EC2, RDS, API Gateway, S3, CloudFormation), GCP, Serverless
+## 🧠 Technical Specialties
 
-**AI & Machine Learning:**
-- TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM
-- NLP, LSTM models, CNNs, AI for healthcare diagnostics, fraud detection, robo-advisors
-- AWS SageMaker, Glue ETL, Spark, Hadoop
+### **Languages & Frameworks**
+JavaScript • TypeScript • Python • Go • .NET • Node.js • React • Next.js • Express • Flask • FastAPI • Bash
 
-**DevOps & Tools:**
-- Docker, Kubernetes
-- CI/CD (Jenkins, GitHub Actions), Cypress, Jest, Enzyme
-- Monitoring & Logging: Prometheus, Grafana, Kibana, Elasticsearch
+### **Machine Learning & AI**
+Transformers • PyTorch • TensorFlow • MLflow • AutoTrain • Gradio • Streamlit • OpenAI • Vertex AI
 
-## 🏆 Professional Experience
+### **Cloud & DevOps**
+AWS (Lambda, EC2, S3, RDS, CloudFormation) • Azure • GCP • Docker • Kubernetes • Terraform  
+GitHub Actions • Jenkins • CI/CD • Serverless architectures
 
-### Senior Software Engineer (Contract)
-**Blankfactor, Miami, FL (Jul 2022 – May 2025)**
-- Architected and deployed a scalable robo-advisor platform with AI/ML algorithms for personalized investment recommendations.
-- Delivered a property management system using AI valuation models for scoring real estate properties from images.
-- Led frontend and backend development for a healthcare assistant leveraging NLP for patient queries.
+### **APIs & Systems**
+GraphQL • REST • OAuth 2.0 • WebSockets • Microservices • Distributed Systems • Observability
 
-### Senior Full Stack Engineer
-**Kyndi, San Mateo, CA (Jul 2019 – Jun 2022)**
-- Built a fraud detection system with ML models integrated into low-latency APIs for real-time scoring.
-- Developed an AI medical imaging assistant with deep learning for radiology diagnostics and integrated genetic screening APIs.
+### **Testing & Productivity**
+Jest • Playwright • Postman • Datadog • Sentry • ELK • Vercel • Netlify
 
-### Software Engineer
-**Iterable, New York, NY (Jun 2015 – May 2019)**
-- Engineered an omnichannel messaging platform with scalable serverless architecture for high-volume communications.
-- Integrated third-party APIs like Twilio, SendGrid, and Firebase for seamless multi-channel delivery.
+---
+
+## 💼 Professional Experience Highlights
+
+### **Staff Software Engineer — Start Matter (2024–2025)**
+- Led architecture and development of full-stack platforms for fintech, legaltech, and martech startups.
+- Built secure, scalable APIs using **Node.js**, **AWS Lambda**, **DynamoDB**, improving overall performance by **45%**.
+- Created multi-tenant SaaS foundations with flexible workflows for early-stage B2B clients.
+- Modernized codebases using TypeScript, cloud infrastructure, and CI/CD automation.
+- Partnered cross-functionally to deliver MVPs rapidly under tight timelines.
+
+---
+
+### **Senior Software Engineer — Hugging Face (2021–2024)**
+- Contributed to the **Hugging Face Hub**, scaling dataset/model hosting for millions of ML practitioners.
+- Developed backend APIs for **Transformers** and **Datasets**, improving experimentation speed.
+- Designed secure deployment tooling for **Spaces**, enhancing developer UX for ML demos.
+- Key contributor to **Enterprise Hub**, enabling secure model governance and compliance at scale.
+- Integrated **AutoTrain** pipelines to simplify automated training and production workflows.
+
+---
+
+### **Software Engineer — Amazon (2017–2020)**
+- Built microservices powering **Alexa/Echo** integrations and voice experiences.
+- Delivered platform improvements for **Fire TV**, including UI enhancements and personalization.
+- Worked on **Ring** firmware and AWS IoT smart home pipeline enhancements.
+- Supported HIPAA-compliant systems for **Amazon Pharmacy**.
+- Optimized AWS telemetry pipelines, reducing incident response time across distributed systems.
+
+---
+
+### **Software Developer — Microsoft (2016–2017)**
+- Built microservices for **Azure analytics** with improved real-time processing.
+- Enhanced identity/session flows for **Office 365** enterprise users.
+- Delivered diagnostics and activation telemetry tools for **Windows 10**.
+- Contributed to Surface hardware–UWP integration prototypes.
+- Assisted LinkedIn API integration after the acquisition.
+
+---
 
 ## 🎓 Education
 
-**M.S. in Computer Science**  
-Osaka University, Japan (2014 - 2015)  
-GPA: 3.9 / 4.0  
+**Master of Computing, Computer Science**  
+National University of Singapore — GPA 4.8 / 5.0  
 
-**B.S. in Computer Science**  
-Osaka University, Japan (2010 - 2014)
+**Bachelor of Computing, Computer Science**  
+National University of Singapore  
 
-## 💼 Projects
+---
 
-### Robo-advisor Platform
-AI/ML-driven platform with TensorFlow LSTM models, providing customized investment portfolios via scalable AWS infrastructure.
+## 🏆 Featured Projects
 
-### Property Management System
-AI-powered app scoring real estate property conditions from photos using valuation models; React/Next.js + Django backend.
+### **Hugging Face Hub Enhancements**
+Infrastructure and APIs for dataset/model hosting at global scale, contributing to Enterprise Hub and Spaces.
 
-### AI-powered Healthcare Assistant
-NLP + ML solution for patient health queries on web and mobile apps; integrated with TensorFlow.js and AWS cloud services.
+### **AutoTrain Pipeline Integrations**
+Automation layer enabling streamlined training, evaluation, and model deployment.
 
-### Payment Fraud Detection System
-ML pipeline for fraud detection with XGBoost, LightGBM, Scikit-learn models; automated AWS SageMaker retraining.
+### **Alexa & Fire TV Backend Services**
+Low-latency microservices powering core Amazon device experiences.
 
-### Medical Diagnosis Assistant
-Deep learning and genetic screening API integration for AI medical imaging diagnostics at scale.
+### **Multi-tenant SaaS Platform Architecture**
+Foundational architecture for B2B startups with tenant isolation, auth, workflows, and integrations.
 
-### Restaurant Technology Suite
-Built an accessible web app optimizing food delivery using React, Next.js, and React Native, with GraphQL APIs.
+---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-I'm always open to discussing innovative ideas, collaborating on projects, or exploring new opportunities. Feel free to reach out to me via [email](mailto:eddydiaz0219@gmail.com).
+I’m always open to discussing **AI/ML**, developer tools, distributed systems, or startup engineering challenges.  
+Feel free to reach out or book time — always happy to chat.
+
